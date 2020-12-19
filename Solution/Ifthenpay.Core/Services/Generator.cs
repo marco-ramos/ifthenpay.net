@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Globalization;
-using Ifthenpay.Domain;
+using Ifthenpay.Core.Domain;
 
-namespace Ifthenpay.Services
+namespace Ifthenpay.Core.Services
 {
     public class Generator
     {

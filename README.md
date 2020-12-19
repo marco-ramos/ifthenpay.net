@@ -17,3 +17,14 @@ Use the Generator Service to obtain a valid ATM based on a unique Id and the amo
 ```
 var atmReference = Ifthenpay.Services.Generator.GetReference(configuration, 1, 10);
 ```
+
+## Nuget
+Full framework: https://www.nuget.org/packages/Ifthenpay/
+```
+Install-Package Ifthenpay -Version 1.0.0
+```
+
+.Net Standard (.NetCore): https://www.nuget.org/packages/Ifthenpay.Core/
+```
+Install-Package Ifthenpay.Core -Version 1.0.0
+```

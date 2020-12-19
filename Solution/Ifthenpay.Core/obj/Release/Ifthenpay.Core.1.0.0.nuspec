@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ifthenpay.Core</id>
+    <version>1.0.0</version>
+    <authors>marco-ramos</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Ifthenpay atm references generator for .net standard</description>
+    <releaseNotes>https://github.com/marco-ramos/ifthenpay.net/releases</releaseNotes>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\bin\Release\netstandard2.0\Ifthenpay.Core.dll" target="lib\netstandard2.0\Ifthenpay.Core.dll" />
+  </files>
+</package>
