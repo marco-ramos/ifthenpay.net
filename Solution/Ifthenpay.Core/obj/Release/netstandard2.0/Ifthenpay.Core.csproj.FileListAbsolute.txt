@@ -1,0 +1,9 @@
+C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\bin\Release\netstandard2.0\Ifthenpay.Core.deps.json
+C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\bin\Release\netstandard2.0\Ifthenpay.Core.dll
+C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\bin\Release\netstandard2.0\Ifthenpay.Core.pdb
+C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\obj\Release\netstandard2.0\Ifthenpay.Core.AssemblyInfoInputs.cache
+C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\obj\Release\netstandard2.0\Ifthenpay.Core.AssemblyInfo.cs
+C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\obj\Release\netstandard2.0\Ifthenpay.Core.csproj.CoreCompileInputs.cache
+C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\obj\Release\netstandard2.0\Ifthenpay.Core.dll
+C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\obj\Release\netstandard2.0\Ifthenpay.Core.pdb
+C:\WORK\Personal\ifthenpay.net\Solution\Ifthenpay.Core\obj\Release\netstandard2.0\Ifthenpay.Core.csprojAssemblyReference.cache

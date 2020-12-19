@@ -1,4 +1,4 @@
-﻿namespace Ifthenpay.Domain
+﻿namespace Ifthenpay.Core.Domain
 {
     public sealed class Payment
     {
